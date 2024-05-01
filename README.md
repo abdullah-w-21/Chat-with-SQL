@@ -1,4 +1,4 @@
-# Chat-with-SQL
+# Chat-with-SQL (single table db)
 ## Overview
 This is a Streamlit web application that allows users to ask English questions related to SQL queries, and it retrieves relevant data from an SQLite database. The application uses a Generative AI model to convert English questions into SQL queries, and then executes those queries on the database to fetch the required information.
 
