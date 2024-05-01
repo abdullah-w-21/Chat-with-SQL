@@ -21,3 +21,6 @@ Python
 Streamlit
 SQLite
 Google Generative AI
+
+![image](https://github.com/abdullah-w-21/Chat-with-SQL/assets/81172855/9a967bc6-a72e-4569-a708-7c6660f75223)
+
